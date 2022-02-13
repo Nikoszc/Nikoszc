@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
 <h3 align="center">Web Developer from India.</h3>
 
-- 🔭 I’m currently working on **Scrizzel**
+- 🔭 I’m currently working on **Scrizzel // Augmented Reality Educational Platform**
 
-- 🌱 I’m currently learning **Three.js , OpenCv**
+- 🌱 I’m currently learning **Three.js , OpenCv , AR.Js and EasyAR**
 
-- 💬 Ask me about - **ReactJS,NodeJs,Graphic Designing**
+- 💬 Ask me about - **Web Development, AR and VR and Problem Solving in DS and ALgorithms**
 
 - 📫 How to reach me- **nikhilsinghg18051999@gmail.com**
 
-- ⚡ Fun fact **I trade and invest in Stocks and Crypto.**
+- ⚡ Fun fact **I binge watch series and animes in a night.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
