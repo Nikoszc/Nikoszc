@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Scrizzel // Augmented Reality Educational Platform**
 
-- 🌱 I’m currently learning **Three.js , OpenCv , AR.Js and EasyAR**
+- 🌱 I’m currently learning **Three.js , OpenCv , WebGl and EasyAR**
 
-- 💬 Ask me about - **Web Development, AR and VR and Problem Solving in DS and ALgorithms**
+- 💬 Ask me about - **Web Dev., AR,VR and DS and ALgorithms**
 
 - 📫 How to reach me- **nikhilsinghg18051999@gmail.com**
 
