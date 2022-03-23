@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
+<h1 align="center">Hi 👋, I'm Nikhil Singh👨‍💻 </h1>
 <h3 align="center">Web Developer from India.</h3>
 
 - 🔭 I’m currently working on **Scrizzel // Augmented Reality Educational Platform**
