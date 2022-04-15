@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Scrizzel // Augmented Reality Educational Platform**
 
-- 🌱 I’m currently learning **Three.js , Unity3D , WebGl and EasyAR**
+- 🌱 I’m currently learning **Three.js , Unity3D , WebGL and EasyAR**
 
 - 💬 Ask me about - **Web Dev., AR,VR and DS and ALgorithms**
 
