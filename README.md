@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Three.js , Unity3D , WebGL and EasyAR**
 
-- 💬 Ask me about - **Web Dev., AR,VR and DS and ALgorithms**
+- 💬 Ask me about - **Web Dev., AR, VR and DS and ALgorithms**
 
 - 📫 How to reach me- **nikhilsinghg18051999@gmail.com**
 
-- ⚡ Fun fact **I binge watch series and animes in a night.**
+- ⚡ Fun fact **I binge watch animes in a night.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
