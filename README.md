@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Three.js , Unity3D , WebGL and EasyAR**
 
-- 💬 Ask me about - **Web Dev., AR, VR and DS and ALgorithms**
+- 💬 Ask me about - **Web Dev, AR, VR and DS and ALgorithms**
 
 - 📫 How to reach me- **nikhilsinghg18051999@gmail.com**
 
