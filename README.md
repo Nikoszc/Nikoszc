@@ -9,7 +9,7 @@
 
 - 📫 How to reach me- **nikhilsinghg18051999@gmail.com**
 
-- ⚡ Fun fact **I binge watch animes in a night.**
+- ⚡ Existing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
