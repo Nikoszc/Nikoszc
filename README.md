@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil Singh👨‍💻 </h1>
 <h3 align="center">Full stack Web Developer and a DevOps Engineer from India.</h3>
 
-- 🔭 I’m currently working on **Scrizzel // Augmented Reality Educational Platform**
+- 🔭 I’m currently working as **Cloud and DevOps Engineer.**
 
-- 🌱 I’m currently learning **Three.js , Unity3D , WebGL and EasyAR**
+- 🌱 I’m currently exploring **Jenkin , optimization techniques and Database**
 
-- 💬 Ask me about - **Web Dev, AR, VR and DS and ALgorithms**
+- 💬 Ask me about - **Web Dev, AR, VR and DevOps tools and services.**
 
 - 📫 How to reach me- **nikhilsinghg18051999@gmail.com**
 
